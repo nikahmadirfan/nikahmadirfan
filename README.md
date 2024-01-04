@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Irfan
+
+🌱 I’m currently learning AI and ML and applying the knowledge by doing projects.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nikahmadirfan/)
+
+
 
 <!--
 **nikahmadirfan/nikahmadirfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
